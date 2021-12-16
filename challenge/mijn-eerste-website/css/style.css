@@ -1,0 +1,108 @@
+h1{
+   font-size: 30px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+
+}
+h3{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+ul{
+    font-size: 20px;
+    margin-top: 20px;
+}
+.ul2{
+    font-size: 25px;
+}
+
+.mijnAfbeelding{
+    width: 450px;
+    height: 500px;
+    margin-left: 520px;
+    border: black;
+    border-width: thick;
+    border-style: solid;
+}
+.mijnAfbeelding2{
+    margin-top: 10px;
+    width: 450px;
+    height: 500px;
+    margin-left: 525px;
+    border: black;
+    border-width: thick;
+    border-style: solid;
+}
+.mijnAfbeelding3{
+    width: 580px;
+    height: 500px;
+    margin-left: 460px;
+    border: black;
+    border-width: thick;
+    border-style: solid;
+}
+
+.mijnwebpagina{
+    color:black;
+    font-size:80px;
+    text-align: center;
+}
+
+.feedbackmedestudenten{
+    font-size: 25px;
+
+}
+
+.lijst1{
+    background-color: white;
+
+}
+
+.lijst2{
+    background-color: white;
+}
+.reflectie{
+    font-size: 25px;
+    
+}
+
+.reflectieproduct{
+    font-size: 25px;
+}
+
+body{
+    background-image: url(https://thumbs.dreamstime.com/b/white-computer-icon-turquoise-background-cup-head-book-lightbulb-signs-worldwide-education-concept-d-rendering-214645804.jpg);
+}
+.logboek{
+    font-size: 25px;
+}
+
+.grey{
+    background-color: grey;
+    padding: 10px 20px;
+    
+     
+}
+.greyy{
+ background-color: grey;
+ padding: 10px 20px;
+}
+
+.ListA{
+    background-color: white;
+    opacity: 50px;
+}
+.listB{
+    background-color: white;
+    opacity: 50px;
+}
+.feedback{
+    background-color: white;
+
+}
+
+
